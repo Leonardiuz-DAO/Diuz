@@ -1,3 +1,7 @@
+# Diuz
+
+Diuz is based on Skycoin (see below).
+
 # Skycoin
 
 [![Build Status](https://travis-ci.org/skycoin/skycoin.svg)](https://travis-ci.org/skycoin/skycoin)
